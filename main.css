@@ -1,0 +1,47 @@
+body {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	font-size: 18px;
+	background: rgb(255,255,0);
+	color: blue;
+}
+
+header, section, footer {
+	background: rgb(255,0,0);
+	margin: 1.5%;
+	border-radius: 10px;
+}
+
+section {
+	float: left;
+	width: 45%;
+	/*margin: 1.5%;*/
+	/*background: #2db34a;*/
+
+}
+.personal {
+	color: black;
+}
+img {
+	width: 75%;
+	margin: 1.5%;
+}
+
+
+footer {
+	clear: both;
+	/*margin-bottom: 0;*/
+	/*margin: 10px 0;*/
+}
+
+.preText {
+	/*margin: auto;*/
+	background-color: white;
+	display:inline-block;
+	padding:30px;
+}
+.profileInput {
+	display: inline-block;
+	padding: 20px;
+}
